@@ -1,4 +1,10 @@
-﻿
+﻿//==============================================
+//Copyright (c) Coalition Good-Hearted Engineers
+//Free to Use Comfort And Peace
+//==============================================
+
+
+
 
 
 using Microsoft.AspNetCore.Mvc;
